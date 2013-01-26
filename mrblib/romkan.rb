@@ -319,7 +319,6 @@ class String
         break
       end
     end
-    puts romaji
     romaji
 #    tmp.gsub(/(#{ROMPAT})/) { ROMKAN[$1] }
   end
